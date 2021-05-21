@@ -1,2 +1,2 @@
 # ZuriTraining Payment Form
- Zuri Training Payment form task
+ Zuri Payment form Task
